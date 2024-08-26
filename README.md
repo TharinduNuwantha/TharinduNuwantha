@@ -9,7 +9,7 @@
 
 - 📫 How to reach me **it22284716@my.sliit.lk**
 
-- ⚡ Fun fact **3.48AM**
+- ⚡ Fun fact **Error 404: Fun fact not found!**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
