@@ -34,7 +34,7 @@
 <a href="https://x.com/nuwantha_PAT" target="_blank">
 <img src="https://img.shields.io/badge/X/Twitter-000000?style=for-the-badge&logo=x&logoColor=white&labelColor=black" alt="Twitter"/>
 </a>
-<a href="https://www.youtube.com/@nuwanthatharindu1338" target="_blank">
+<a href="https://www.youtube.com/@nuwanthatharindu" target="_blank">
 <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white&labelColor=black" alt="YouTube"/>
 </a>
 <a href="mailto:tharindunuwantha77@gmail.com" target="_blank">
